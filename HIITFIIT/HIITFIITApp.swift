@@ -1,0 +1,17 @@
+//
+//  HIITFIITApp.swift
+//  HIITFIIT
+//
+//  Created by Tes Essa on 9/22/24.
+//
+
+import SwiftUI
+
+@main
+struct HIITFIITApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
