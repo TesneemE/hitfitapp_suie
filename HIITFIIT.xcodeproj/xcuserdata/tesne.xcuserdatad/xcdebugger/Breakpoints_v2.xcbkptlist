@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B139A88C-F312-4F03-81D9-0C401D38E65B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A8A6235-DBB9-4152-875E-6B751EFDE06B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITFIIT/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8857B9F5-9CB1-49D0-92BD-25E3D27F0002"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HIITFIIT/Views/SuccessView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "SuccessView_Previews"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8857B9F5-9CB1-49D0-92BD-25E3D27F0002 - e8323a40f208fa3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HIITFIIT.SuccessView_Previews.previews.getter : some"
+                  moduleName = "HIITFIIT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tesne/ios_dev/HIITFIIT/HIITFIIT/Views/SuccessView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "8857B9F5-9CB1-49D0-92BD-25E3D27F0002 - e1d5fba2845fecc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HIITFIIT.SuccessView_Previews.init() -&gt; HIITFIIT.SuccessView_Previews"
+                  moduleName = "HIITFIIT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tesne/ios_dev/HIITFIIT/HIITFIIT/Views/SuccessView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
